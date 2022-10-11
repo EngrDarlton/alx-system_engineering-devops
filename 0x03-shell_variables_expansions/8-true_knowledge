@@ -1,5 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="1209"
-
-Ad_result="{128+$TRUEKNOWLEDGE}"
-echo $Ad_result(/n)
+export TRUEKNOWLEDGE="1209" | echo "[128+$TRUEKNOWLEDGE]"
