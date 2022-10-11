@@ -1,0 +1,5 @@
+#!/bin/bash
+export TRUEKNOWLEDGE="1209"
+
+Ad_result="{128+$TRUEKNOWLEDGE}"
+echo $Ad_result(/n)
